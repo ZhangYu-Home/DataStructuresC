@@ -50,3 +50,17 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Added by myself
+# Dev C++ files
+# 1.Project file
+*.dev
+# 2.layout file
+*.layout
+# 3.makefile
+Makefile.win
+
+
+
+
+
